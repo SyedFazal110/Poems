@@ -1,0 +1,222 @@
+body{
+    background-color: #f0f096;
+}
+.tab{
+    background-color: #825ea3;
+    /* text-align: center; */
+    padding: 25px;
+    width: 100% ;
+    margin: 0px auto;
+}
+a{
+    width:50% ;
+    margin: 0 70px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+a:hover{
+    color: #19f4f4;
+}
+.poem1{
+    text-align: center;
+    font-family: 'poppins';
+    color: #00ffff;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem1::first-letter{
+    color: #8a2be2;
+    font-size: 100px;
+}
+.shape{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.tab2{
+    background-color: #825ea3;
+    /* text-align: center; */
+    padding: 25px;
+    width: 100% ;
+    margin: 0px auto;
+}
+a{
+    width:50% ;
+    margin: 0 70px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+a:hover{
+    color: #19f4f4;
+}
+.poem2{
+    text-align: center;
+    font-family: sans-serif;
+    color: #00ffcc;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem2::first-letter{
+    color: #380667;
+    font-size: 100px;
+}
+.shape2{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.tab3{
+    background-color: #825ea3;
+    /* text-align: center; */
+    padding: 25px;
+    width: 100% ;
+    margin: 0px auto;
+}
+a{
+    width:50% ;
+    margin: 0 70px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+a:hover{
+    color: #19f4f4;
+}
+.poem3{
+    text-align: center;
+    font-family: monospace;
+    color: #5a1fbe;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem3::first-letter{
+    color: #34e2b1;
+    font-size: 100px;
+}
+.shape3{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.tab4{
+    background-color: #825ea3;
+    /* text-align: center; */
+    padding: 25px;
+    width: 100% ;
+    margin: 0px auto;
+}
+a{
+    width:50% ;
+    margin: 0 70px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+a:hover{
+    color: #19f4f4;
+}
+.poem4{
+    text-align: center;
+    font-family: Arial;
+    color: #ffbf00;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem4::first-letter{
+    color: #0f1506;
+    font-size: 100px;
+}
+.shape4{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.tab5{
+    background-color: #825ea3;
+    /* text-align: center; */
+    padding: 25px;
+    width: 100% ;
+    margin: 0px auto;
+}
+a{
+    width:50% ;
+    margin: 0 70px;
+    font-size: 2rem;
+    text-decoration: none;
+}
+a:hover{
+    color: #19f4f4;
+}
+.poem5{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ff00d0;
+    display: block;
+    font-size: 3em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.poem5::first-letter{
+    color: #00d0ff;
+    font-size: 100px;
+}
+.shape5{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
